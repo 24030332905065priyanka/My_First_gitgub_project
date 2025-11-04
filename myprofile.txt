@@ -1,0 +1,5 @@
+my name is priyanka navnath tarde .
+I am the student of dr.babasaheb ambedkar technological university lonere.
+I am pursuing b-tech degree in computer science and engineering 
+i am intersted in learning about techonology and programming 
+This project is part of my coursework to understand version control and collaboration using github.
